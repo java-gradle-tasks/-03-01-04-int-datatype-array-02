@@ -17,8 +17,12 @@ public class MyIntArrayProject {
 		return 0;
 	}
 
+	public static int getNumberOfDifferentElement(int[] array) {
+		// Határozza meg, hogy a tömbben hány különböző elem van!
+		return 0;
+	}
+
 	public static void main(final String[] args) {
 		// Write your solution here
 	}
-
 }
